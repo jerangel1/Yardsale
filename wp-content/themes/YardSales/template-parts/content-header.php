@@ -8,7 +8,7 @@
             </div>
             <div class="encabezado__logo col-5 col-md-2 px-2 px-md-4">
                 <a href="/">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.svg" width="100%" alt="Yard Sales">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo-yard-sales.svg" width="70%" alt="Yard Sales">
                 </a>
             </div>
             <div class="encabezado__menu col-6 col-md-4">
